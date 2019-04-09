@@ -14,12 +14,16 @@
 
 ![条码值绑定](https://github.com/ZJ69719496/LabelPrinter/blob/master/4.png)  
 
-![远程打印设置](https://github.com/ZJ69719496/LabelPrinter/blob/master/5.png)  
+![远程打印设置](https://github.com/ZJ69719496/LabelPrinter/blob/master/5.png) 
+
 
 ![打印](https://github.com/ZJ69719496/LabelPrinter/blob/master/6.png)  
 
+
 ![打印](https://github.com/ZJ69719496/LabelPrinter/blob/master/7.png)  
 
+
 ![打印](https://github.com/ZJ69719496/LabelPrinter/blob/master/8.png)  
+
 
 ![打印](https://github.com/ZJ69719496/LabelPrinter/blob/master/9.png)  
