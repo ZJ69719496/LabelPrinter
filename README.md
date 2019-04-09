@@ -2,7 +2,8 @@
 通用工业标签设计打印工具，该工具可以实现标签设计和打印功能，通过自定义协议，可以用来远程云打印，支持所有打印机
 支持斑马打印机，设计标签的时候能都自动生成斑马语言  并且能够预览打印效果
 
-皮肤使用了 [CSkin](http://www.cskin.net/)  
+皮肤使用了 [CSkin](http://www.cskin.net/) 
+通信协议使用了NETMQ 实现发布订阅
 软件中使用的图标是从 [easyicon](https://www.easyicon.net/) 收集的（如有侵权，请联系我 进行修改 QQ：912259791）(可根据需求定制软件) 
 
 ![标签设计界面](https://github.com/ZJ69719496/LabelPrinter/blob/master/1.png)
